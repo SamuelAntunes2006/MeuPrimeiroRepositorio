@@ -1,8 +1,8 @@
 # MeuPrimeiroRepositorio
 
-Altera��o no diretorio local
+Alteração no diretorio local
 
-
+Alteração no diretorio remoto
 
 
 	
